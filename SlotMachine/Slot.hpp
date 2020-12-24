@@ -1,11 +1,3 @@
-//
-//  Slot.hpp
-//  SlotMachine
-//
-//  Created by ZQ314159 on 17/7/2563 BE.
-//  Copyright © 2563 ZQ314159. All rights reserved.
-//
-
 #ifndef Slot_hpp
 #define Slot_hpp
 #include "Account.hpp"
